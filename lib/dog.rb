@@ -21,6 +21,9 @@ class Dog
 
 end
 
+dog = dog.new
+
+
 
 
 # class Person
