@@ -8,11 +8,20 @@ class Dog
     @name= name
   end
 
+#=> getter/reader
+
   def name
     @name
   end
+#=> setter/writer
+
+  def name=(new_name)
+    @name = new_name
+  end
 
 end
+
+
 
 # class Person
 #
