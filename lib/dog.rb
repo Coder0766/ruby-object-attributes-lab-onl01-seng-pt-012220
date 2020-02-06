@@ -4,10 +4,6 @@
 
 class Dog
 
-  # def initialize(breed)
-  #   @breed= breed
-  # end
-
   #=> getter/reader
   def name
     @name
