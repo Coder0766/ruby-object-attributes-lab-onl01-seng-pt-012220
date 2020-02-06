@@ -3,4 +3,8 @@
 # 3. Create object properties using methods and instance variables.
 
 class Dog
+
+def initialize(: @name)
+
+
 end
