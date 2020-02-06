@@ -15,11 +15,11 @@ class Person
   end
 
   # => getter/reader
-  def name
-    @name
+  def job
+    @job
   end
 
-  
+
 
   def breed
     @breed
