@@ -4,22 +4,22 @@
 
 class Person
 
-#=> setter/writer
-def name=(name)
-  @name= name
-end
+  #=> setter/writer
+  def name=(name)
+    @name= name
+  end
 
+  #=> setter/writer
+  def job=(job)
+    @job= job
+  end
 
-# => getter/reader
+  # => getter/reader
   def name
     @name
   end
 
-
-
-  def breed=(breed)
-    @breed= breed
-  end
+  
 
   def breed
     @breed
