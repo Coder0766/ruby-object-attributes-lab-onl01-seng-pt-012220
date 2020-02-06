@@ -19,9 +19,14 @@ class Dog
     @name= name
   end
 
+  def breed
+    @breed= breed
+  end
+
+
 end
 
-dog = dog.new
+
 
 
 
