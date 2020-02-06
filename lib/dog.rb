@@ -4,9 +4,9 @@
 
 class Dog
 
-  def initialize(name)
-    @name= name
-  end
+  # def initialize(name)
+  #   @name= name
+  # end
 
 #=> getter/reader
 
@@ -15,7 +15,7 @@ class Dog
   end
 #=> setter/writer
 
-  def name= (name)
+  def name=(name)
     @name= name
   end
 
