@@ -8,18 +8,17 @@ class Dog
   #   @breed= breed
   # end
 
-#=> getter/reader
-
+  #=> getter/reader
   def name
     @name
   end
-#=> setter/writer
 
+  #=> setter/writer
   def name=(name)
     @name= name
   end
 
-  def breed
+  def breed=(breed)
     @breed= breed
   end
 
