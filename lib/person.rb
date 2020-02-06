@@ -2,24 +2,24 @@
 # 2. Define methods that read from and write to instance variables.
 # 3. Create object properties using methods and instance variables.
 
-class Dog
+class Person
 
   #=> getter/reader
-  def name
-    @name
-  end
-
-  #=> setter/writer
-  def name=(name)
-    @name= name
-  end
-
-  def breed=(breed)
-    @breed= breed
-  end
-
-  def breed
-    @breed
-  end
+  # def name
+  #   @name
+  # end
+  #
+  # #=> setter/writer
+  # def name=(name)
+  #   @name= name
+  # end
+  #
+  # def breed=(breed)
+  #   @breed= breed
+  # end
+  #
+  # def breed
+  #   @breed
+  # end
 
 end
